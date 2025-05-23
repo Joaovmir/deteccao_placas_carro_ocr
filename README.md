@@ -1,7 +1,6 @@
 # Detecção e OCR de Placas de Carro 🚗🔍
 
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Este repositório apresenta um pipeline completo para **detecção de placas de carro em imagens** e extração automática do texto via **OCR (Reconhecimento Óptico de Caracteres)**, usando Python e bibliotecas modernas de visão computacional.
 
