@@ -93,15 +93,6 @@ plt.axis('off')
 plt.show()
 ```
 
-### Detecção da Placa
-
-```python
-# Pré-processamento e detecção usando OpenCV
-# (Trechos exatos de código variam conforme o notebook)
-
-# Exemplo: Encontrar contornos e filtrar possíveis placas
-```
-
 ### Extração do Texto
 
 ```python
